@@ -34,6 +34,9 @@ DevOps:
 - Docker
 - CI/CD
 - Cloud Deployments
+- Loki
+- Prometheus
+- AWS
 
 ---
 
